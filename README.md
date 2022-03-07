@@ -21,6 +21,6 @@ The task is to predict the probability that each customer in the test set is an 
 # Performance metric:
 The metric used here is the area under the ROC .AUC helps in determining whether a model is good at distinguishing between classes The popularity of ROC AUC over standard accuracy measure comes from the fact that in any unbalanced dataset it is easy to achieve 99% accuracy if 99% of the data belongs to one class. Whereas ROC AUC depends on both True Positives as well as False Positives to determine a score thus making the metrics fairly independent of the state of unbalance in the data.
 # Contact : -
-LinkedIn: https://www.linkedin.com/in/ashish-sarathe-a4b67867/details/skills/
+LinkedIn: linkedin.com/in/ashish-sarathe-a4b67867
 
 Email: ashish.sarathe@gmail.com 
