@@ -24,3 +24,5 @@ The metric used here is the area under the ROC .AUC helps in determining whether
 LinkedIn: https://www.linkedin.com/in/ashish-sarathe-a4b67867/
 
 Email: ashish.sarathe@gmail.com 
+
+Blog:https://medium.com/@ashish.sarathe/cdb047a60c26
